@@ -17,3 +17,7 @@ TinyFsk for MMTTY
 // You should have received a copy of the GNU Lesser General Public License along with tinyfsk.fsk.  If not, see
 // <http://www.gnu.org/licenses/>.
 //-----------------------------------------------------------------------------------------------------------------------------------------------
+
+This is a source code repository of tinyFSK.FSK.
+
+Borland C++ Builder version 5.0 is needed to build this project.
