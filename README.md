@@ -1,7 +1,7 @@
 "# tinyFSK" 
 
 
-TinyFsk for MMTTY
+TinyFsk.fsk for MMTTY
 
 Directory bcc contains the source codes of tinyFSK.FSK.
 
