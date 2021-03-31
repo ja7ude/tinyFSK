@@ -3,6 +3,10 @@
 
 TinyFsk for MMTTY
 
+Directory bcc contains the source codes of tinyFSK.FSK.
+
+Directory arduino
+
 //Copyright+LGPL
 
 //----------------------------------------------------------------------------------------------------------------------------------------------- // Copyright 2000-2017 Makoto Mori, Nobuyuki Oba //----------------------------------------------------------------------------------------------------------------------------------------------- // This file is part of tinyfsk.fsk.
