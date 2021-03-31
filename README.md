@@ -5,7 +5,7 @@ TinyFsk for MMTTY
 
 Directory bcc contains the source codes of tinyFSK.FSK.
 
-Directory arduino
+Directory arduino has the arduino code just for reference.
 
 //Copyright+LGPL
 
