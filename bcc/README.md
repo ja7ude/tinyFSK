@@ -24,4 +24,4 @@ Borland C++ Builder version 5.0 is needed to build this project.
 
 After a successful build, you will have extfsk.dll. Rename it to tinyFSK.FSK.
 
-Note: I made this project based on EXTFSK64. Therefore, it has some unnecessary codes for the tinyfsk module remained. Sorry for dirty codes.
+Note: I made this project based on EXTFSK64. There remain some codes unnecessary for the tinyfsk module. Sorry for dirty codes.
