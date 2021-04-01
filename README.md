@@ -3,9 +3,9 @@
 
 TinyFsk.fsk for MMTTY
 
-Directory bcc contains the source codes of tinyFSK.FSK.
+Directory "bcc" contains the source codes of tinyFSK.FSK. You need Borland C++ builder 5.0 to build tinyFSK.fsk. Borland C++ builder 5.0 deprecated long long time ago. I am not sure it is still available.
 
-Directory arduino has the arduino code just for reference.
+Directory "arduino" has the arduino project only for reference.
 
 //Copyright+LGPL
 
