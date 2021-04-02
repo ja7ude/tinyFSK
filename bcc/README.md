@@ -1,6 +1,14 @@
 
 TinyFsk for MMTTY
 
+This is a source code repository of tinyFSK.FSK.
+
+Borland C++ Builder version 5.0 is needed to build this project.
+
+After a successful build, you will have extfsk.dll. Rename it to tinyFSK.FSK.
+
+Note: I made this project based on EXTFSK64. There still remain some codes that are unnecessary for the tinyfsk module. Sorry for dirty codes.
+
 //Copyright+LGPL
 
 //-----------------------------------------------------------------------------------------------------------------------------------------------
@@ -17,11 +25,3 @@ TinyFsk for MMTTY
 // You should have received a copy of the GNU Lesser General Public License along with tinyfsk.fsk.  If not, see
 // <http://www.gnu.org/licenses/>.
 //-----------------------------------------------------------------------------------------------------------------------------------------------
-
-This is a source code repository of tinyFSK.FSK.
-
-Borland C++ Builder version 5.0 is needed to build this project.
-
-After a successful build, you will have extfsk.dll. Rename it to tinyFSK.FSK.
-
-Note: I made this project based on EXTFSK64. There remain some codes unnecessary for the tinyfsk module. Sorry for dirty codes.
