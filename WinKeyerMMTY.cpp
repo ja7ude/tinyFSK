@@ -22,7 +22,6 @@
 extern "C" void __declspec(dllexport) __stdcall extfskClose(void);
 //---------------------------------------------------------------------------
 USEFORM("Main.cpp", ExtFSK);
-//---------------------------------------------------------------------------
 TExtFSK *pMain;
 //---------------------------------------------------------------------------
 int WINAPI DllEntryPoint(HINSTANCE hinst, unsigned long reason, void*)
@@ -67,7 +66,8 @@ extfskOpen(LONG para)
 	pMain = new TExtFSK(NULL);
 	ASSERT(pMain);
 	if( pMain != NULL ){
-		pMain->SetPara(para);
+                pMain->m_para = para;
+		pMain->SetPara();
 		pMain->Show();
 		return TRUE;
 	}
