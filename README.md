@@ -14,9 +14,8 @@ rather dirty source code.
 
 ## Copyright and License
 
------------------------------------------------------------------------------------------------------------------------------------------------
 Copyright 2000-2022 Makoto Mori, Nobuyuki Oba, Rafal Lukawiecki
------------------------------------------------------------------------------------------------------------------------------------------------
+
 This file is part of WinKeyerMMTY FSK project.
 
 WinKeyerMMTTY FSK is free software: you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License
