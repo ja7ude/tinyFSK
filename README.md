@@ -1,16 +1,17 @@
 # WinKeyer FSK for MMTTY
 
-This is a source code repository of WinKeyerMMTY FSK extension. It supports [WinKeyer]<https://www.k1elsystems.com>
+This is a source code repository of WinKeyerMMTY FSK extension. It supports [WinKeyer](https://www.k1elsystems.com)
 devices containing WinKeyr [firmware
-revision 3.1]<https://www.k1elsystems.com/WinKeyer_31.html> or later. Those devices are capable of keying RTTY FSK signal.
+revision 3.1](https://www.k1elsystems.com/WinKeyer_31.html) or later. Those devices are capable of keying RTTY FSK signal.
 
 ## How to Use
 
-If you just want to use the extension, copy file **WinKeyer.fsk** it to the directory
+1. Copy **WinKeyer.fsk** file to the directory
 containing your installation of MMTTY.
-Subsequently, select WinKeyer from the "PTT & FSK" section of the MMTTY Tx configuration tab.
-When the extension starts, it will show a small config and status window. Select the COM port on
+1. Select `WinKeyer` from the `PTT & FSK` section of the MMTTY `Tx` configuration tab.
+1. When the extension starts, it will show a small config and status window. Select the COM port on
 which your WinKeyer is running. 
+
 Please note, the baud rate and the number of stop bits are taken from the MMTTY configuration settings.
 Optionally, configure its additional settings using that window.
 
@@ -18,7 +19,7 @@ Optionally, configure its additional settings using that window.
 
 Borland C++ Builder version 5.0 is needed to build this project.
 
-After a successful build, you will find WinKeyerMMTY.dll. Rename it to WinKeyer.fsk.
+After a successful build, you will find `WinKeyerMMTY.dll`. Rename it to `WinKeyer.fsk`.
 
 ## History
 
